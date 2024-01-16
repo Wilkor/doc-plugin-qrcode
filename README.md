@@ -1,7 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-qrcode/assets/34819624/9f5a1fc4-4ba5-4b71-a95d-7c7154879f13)
 
 # Como utilizar a extensão QR Code!
 
