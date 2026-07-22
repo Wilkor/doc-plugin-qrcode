@@ -9,9 +9,8 @@ A extensão **QR Code** permite criar e fazer o download de imagens de QR Code p
 ---
 
 ### 1. Vídeo demonstrativo
-Assista à demonstração prática da geração de QR Code diretamente no painel da extensão no seu ambiente Blip.
+Esta extensão não possui vídeos ainda.
 
-*(Confira a criação da imagem e download do QR Code em tempo real)*
 
 ### 2. Introdução
 A extensão **QR Code** facilita a criação de pontos de contato físicos e digitais. Ao escanear a imagem gerada, o cliente abre a janela do WhatsApp já com uma mensagem inicial pré-formatada para iniciar a interação com o chatbot.
