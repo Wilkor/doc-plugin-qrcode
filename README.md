@@ -30,8 +30,16 @@ Após ativar a extensão através da Blip Store, ela deve ser instalada no bot R
 1. Ao lado de Home na tela principal, clique em **Blip Store**, depois no menu lateral, clique em **Extensões**;
 2. Procure por **QR Code** e clique em **Ativar (Ativar em bots Router/Roteadores)**;
 3. No menu principal da extensão **(Criar QrCode)**, adicione um texto para que o cliente envie assim que abrir seu número no WhatsApp;
-4. Clique em **Gerar QrCode**;
-5. Faça o download da imagem do QR Code que aparecerá do lado direito da tela da extensão.
+
+<img width="1593" height="491" alt="image" src="https://github.com/user-attachments/assets/9cb33dad-a18a-412b-ac52-55bf5504b451" />
+
+
+
+5. Clique em **Gerar QrCode**;
+
+<img width="1603" height="521" alt="image" src="https://github.com/user-attachments/assets/5736b3f4-c407-42af-a304-4784ac13d21d" />
+
+6. Faça o download da imagem do QR Code que aparecerá do lado direito da tela da extensão.
 
 ### 5. Exemplos de Uso
 Uma empresa insere o QR Code em panfletos ou em seu site com o texto pré-definido *"Olá, gostaria de saber mais sobre os planos"*. Quando o cliente escaneia o código pelo celular, o aplicativo do WhatsApp abre diretamente com esse texto pré-preenchido, pronto para envio.
